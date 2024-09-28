@@ -7,11 +7,10 @@
 </p>
 
 O Projeto Redes Sociais é um site para mostrar a redes sociais.
-Este foi o terceiro projeto proposto pelo curso de HTML & CSS, do <strong>Cusoemvídeo</strong>.
 
 <br>
 
-Este foi um dos projetos do curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
+Este foi o terceiro projeto proposto pelo curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
 
 <br>
 
